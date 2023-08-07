@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextUp-React/static/css/main.abd64e84.css",
-    "main.js": "/TextUp-React/static/js/main.00f4ffb5.js",
-    "static/js/787.28cb0dcd.chunk.js": "/TextUp-React/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/TextUp-React/index.html",
-    "main.abd64e84.css.map": "/TextUp-React/static/css/main.abd64e84.css.map",
-    "main.00f4ffb5.js.map": "/TextUp-React/static/js/main.00f4ffb5.js.map",
-    "787.28cb0dcd.chunk.js.map": "/TextUp-React/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/TextUp/static/css/main.abd64e84.css",
+    "main.js": "/TextUp/static/js/main.cb74eafd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextUp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TextUp/index.html",
+    "main.abd64e84.css.map": "/TextUp/static/css/main.abd64e84.css.map",
+    "main.cb74eafd.js.map": "/TextUp/static/js/main.cb74eafd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextUp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.00f4ffb5.js"
+    "static/js/main.cb74eafd.js"
   ]
 }
